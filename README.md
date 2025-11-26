@@ -40,7 +40,7 @@ Depois vá ate "Patcher > Selecione um app" e pesquise pelo YouTube
 
 Clique na versão sugerida, como na imagem acima e pesquise com o google ou seu navegador.
 
-Procure um ".APK" Vanilla do YouTube com a pesquisa sugerida acima ou veja a versão que você tem que pesquisar em "Sugerida" como na imagem acima, de preferencia pesquise por uma versão "NODPI" (geralmente vem escrito no nome do aplicativo no site) e baixe, mas não instale o apk. Geralmente a melhor fonte é apkmirror.com.
+Procure um ".APK" Vanilla do YouTube com a pesquisa sugerida acima ou veja a versão que você tem que pesquisar em "Sugerida" como na imagem acima, de preferencia pesquise por uma versão "NODPI" (geralmente vem escrito no nome do aplicativo no site) e baixe, mas não instale o apk (ou seja, baixe o arquivo APK, mas não instale no seu celular ainda). Geralmente a melhor fonte é apkmirror.com.
 
 A versão sugerida no momento que to fazendo esse guia é a v20.14.43, que pode ser baixada nesse link:
 
