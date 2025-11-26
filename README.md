@@ -2,7 +2,7 @@
 Esse é um guia para dispositivos Android não rootados e so funciona em dispositivos Android 8 ou posterior
 
 # Instalação
-Pra começar, você precisa do [Revanced Manager](https://revanced.app/download), um [APK Vanilla do YouTube](https://www.apkmirror.com/apk/google-inc/youtube/youtube-20-14-43-release/youtube-20-14-43-2-android-apk-download/) e o [MicroG]()
+Pra começar, você precisa do [Revanced Manager](https://revanced.app/download), um [APK Vanilla do YouTube](https://www.apkmirror.com/apk/google-inc/youtube/youtube-20-14-43-release/youtube-20-14-43-2-android-apk-download/) e o [GMSCore](https://github.com/revanced/gmscore/releases/tag/v0.3.1.4.240913)
 
 ### Instalando o Revanced Manager
 Abra o link abaixo e baixe o Revanced Manager
@@ -34,13 +34,13 @@ Depois vá ate "Patcher > Selecione um app" e pesquise pelo YouTube
 
 ![image1](https://github.com/user-attachments/assets/dca53c2d-e548-4db0-9495-dc74433a3c6c)
 
-<img width="1600" height="792" alt="image2" src="https://github.com/user-attachments/assets/1331665e-12d4-40ca-9984-41181325a320" />
+![image2](https://github.com/user-attachments/assets/9c36bd45-5d0f-4e6c-8bd7-19f5b7044254)
 
-<img width="1600" height="792" alt="image3" src="https://github.com/user-attachments/assets/a6df8f59-293c-4703-8de6-aa301edc2d56" />
+![image3](https://github.com/user-attachments/assets/d6402902-ea26-474b-9ba1-b08168b85add)
 
 Clique na versão sugerida, como na imagem acima e pesquise com o google ou seu navegador.
 
-Procure um ".APK" Vanilla do YouTube com a pesquisa sugerida acima ou veja a versão que você tem que pesquisar em "Sugerida" como na imagem acima, de preferencia pesquise por uma versão "NODPI" (geralmente vem escrito no nome do aplicativo no site). Geralmente a melhor fonte é apkmirror.com.
+Procure um ".APK" Vanilla do YouTube com a pesquisa sugerida acima ou veja a versão que você tem que pesquisar em "Sugerida" como na imagem acima, de preferencia pesquise por uma versão "NODPI" (geralmente vem escrito no nome do aplicativo no site) e baixe, mas não instale o apk. Geralmente a melhor fonte é apkmirror.com.
 
 A versão sugerida no momento que to fazendo esse guia é a v20.14.43, que pode ser baixada nesse link:
 
@@ -53,6 +53,43 @@ Clique em "DOWNLOAD APK"
 
 > [!IMPORTANT]
 > A versão do YouTube sugerida pelo Revanced pode mudar conforme quando você instalou o Revanced Manager, então sempre veja se há uma versão sugerida mais nova do YouTube Vanilla pelo Revanced Manager.
+
+### Fazendo patch do apk
+Antes de instalar o apk do YouTube, faça o patch pelo Revanced Manager, volte ao Revanced Manager e vá ate "Patcher > Selecione um app > Armazenamento > escolha o .APK que você instalou do YouTube (Vanilla)
+
+![image5](https://github.com/user-attachments/assets/e277a3da-07d7-4fb2-a527-b78bc139a1a6)
+
+![image6](https://github.com/user-attachments/assets/28047ade-b96b-4763-8eb5-a099e6d7b4a0)
+
+Depois de selecionar, clique em "Patch" e aguarde ele terminar o patch.
+
+![image7](https://github.com/user-attachments/assets/685960d2-6bea-46eb-b505-63dcc2fd8d76)
+
+Apos isso clique em "Instalar" e conceda a permissão de "Instalar de fontes desconhecidas" caso você ainda não tiver concedido.
+
+![image9](https://github.com/user-attachments/assets/af056a14-4963-4b31-81e1-75f4dbfdc70b)
+
+Se dizer para você desativar as atualizações automaticas do app patchado, ignore nesse caso, pois você não precisa trocar o app original do YouTube, ou seja, ao invés de você abrir o YouTube original quando quiser assistir algo, abra o YouTube Revanced ao invés do original, ja que somente o YouTube Revanced sera patchado e os dois continuarão instalados, também há formas de ocultar, desabilitar ou ate desinstalar o YouTube original, mas eu recomendo apenas ocultar, ou mover pra um local menos usado e colocar o YouTube Revanced nos locais que você deixava seu YouTube Original.
+
+> [!TIP]
+> Você pode exportar essa versão com o patch ja aplicado, caso você queira compartilhar com alguem por exemplo, clicando nesse botão:
+>
+> ![image8](https://github.com/user-attachments/assets/cd58dec3-f3d1-4b07-a27d-6cc8446bde74)
+
+### Instalando e configurando o GMSCore
+Após abrir o YouTube Revanced, ele ira fechar e abrir seu navegador automaticamente na tela de download do GMSCore, mas caso ele não tenha feito isso automaticamente, você pode baixar o GMSCore com o link abaixo:
+
+```
+https://github.com/revanced/gmscore/releases/tag/v0.3.1.4.240913
+```
+
+Baixe e instale o GMSCore. Há duas versões, uma para dispositivos Huawei e outra para o restante dos dispositivos, caso seu celular seja da marca Huawei, selecione o botão de download abaixo do nome Huawei, caso seu dispositivo seja de qualquer outra marca, selecione o botão de download abaixo de "Default".
+
+![image10](https://github.com/user-attachments/assets/63058510-0b64-4329-95ab-790cac7d09f2)
+
+Abra o GMSCore e configure do seu jeito, você pode desativar o registro de dispositivo no google por exemplo ou logar na sua conta google.
+
+Para logar na sua conta google, vá em "Contas do google > adicionar conta google e adicione sua conta por aqui, automaticamente você vai ser logado no YouTube Revanced também.
 
 # FAQ
 
@@ -77,3 +114,5 @@ São aplicativos extraidos diretamente a playstore, mas em formato .APK para a i
 
 Isso significa que os mesmos aplicativos que você baixar por meio desse .APK ou por meio da playstore, são essencialmente os mesmos, mas o .APK é "mais modificavel".
 
+## O que é GMSCore?
+GMSCore é um aplicativo/framework opensource e de codigo aberto que permite que aplicativos feitos para o google play service funcionem mesmo sem o google play service, geralmente por conta de modificações, como é o caso.
