@@ -89,7 +89,31 @@ Baixe e instale o GMSCore. Há duas versões, uma para dispositivos Huawei e out
 
 Abra o GMSCore e configure do seu jeito, você pode desativar o registro de dispositivo no google por exemplo ou logar na sua conta google.
 
-Para logar na sua conta google, vá em "Contas do google > adicionar conta google e adicione sua conta por aqui, automaticamente você vai ser logado no YouTube Revanced também.
+Para logar na sua conta google, vá em Contas do google > adicionar conta google e adicione sua conta por aqui, automaticamente você vai ser logado no YouTube Revanced também.
+
+Abra o YouTube Revanced, geralmente tem o mesmo icone e nome do YouTube original, então tem que prestar atenção pra ver qual é o revanced e qual é o original.
+
+Permita que o GMSCore desabilite a otimização de bateria para ele se for pedido ao abrir o Revanced.
+
+# Pronto :)
+Agora você ja pode usar o YouTube revanced normalmente.
+
+Algumas das funcionalidades do Revanced são:
+
+1. Bloqueio de anuncios
+2. SpensorBlock (bloqueio de anunciantes inserido nos videos)
+3. Return video dislikes (volta com os dislikes)
+4. Configurações pra desabilitar quase tudo, como os shorts, os posts, enquetes, desabilitar resumo de video por IA, a aba de inscrições e ate o proprio feed de recomendação (literalmente quase qualquer coisa)
+5. Personalização, como por exemplo, voltar as interfaces antigas do YouTube, interfaces diferentes, mudar a cor da barra de progresso do video (literalmente quase tudo também)
+6. Reproduzir video em segundo plano
+7. Pop up flutuante de video com sobreposição sobre outros apps (da pra desativar se atrapalhar)
+8. Tirar clickbait em thumb com DeArrow (vem desativado por padrão, mas é so ativar)
+9. Tem como trocar o icone e o nome pra não confundir com o YouTube original
+10. Mais um monte de coisa que não da pra citar, tem coisa que eu achava que nem era possivel, mas tem como
+
+Pra acessar é so clicar na sua foto de perfil e ir em Configurações > ReVanced
+
+Ele so vem com o basico ativado, que é o spensorblock, return video dislikes e o bloqueador de anuncio, tudo da pra desativar ou ativar dependendo da sua necessidade.
 
 # FAQ
 
