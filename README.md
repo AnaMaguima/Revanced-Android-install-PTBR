@@ -4,6 +4,8 @@ Esse é um guia para dispositivos Android não rootados e so funciona em disposi
 # Instalação
 Pra começar, você precisa do [Revanced Manager](https://revanced.app/download), um [APK Vanilla do YouTube](https://www.apkmirror.com/apk/google-inc/youtube/youtube-20-14-43-release/youtube-20-14-43-2-android-apk-download/) e o [GMSCore](https://github.com/revanced/gmscore/releases/tag/v0.3.1.4.240913)
 
+Você não precisa excluir o YouTube original pra instalar o Revanced.
+
 ### Instalando o Revanced Manager
 Abra o link abaixo e baixe o Revanced Manager
 ```
