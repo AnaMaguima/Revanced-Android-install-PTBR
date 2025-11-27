@@ -1,10 +1,10 @@
 # Considerações
 Esse é um guia para dispositivos Android não rootados e so funciona em dispositivos Android 8 ou posterior
 
+Você não precisa excluir o YouTube original pra instalar o Revanced.
+
 # Instalação
 Pra começar, você precisa do [Revanced Manager](https://revanced.app/download), um [APK Vanilla do YouTube](https://www.apkmirror.com/apk/google-inc/youtube/youtube-20-14-43-release/youtube-20-14-43-2-android-apk-download/) e o [GMSCore](https://github.com/revanced/gmscore/releases/tag/v0.3.1.4.240913)
-
-Você não precisa excluir o YouTube original pra instalar o Revanced.
 
 ### Instalando o Revanced Manager
 Abra o link abaixo e baixe o Revanced Manager
@@ -124,7 +124,7 @@ Revanced Manager é um programa (aplicativo) opensource que permite fazer "patch
 
 Seu codigo pode ser verificado clicando [Aqui](https://github.com/revanced/revanced-manager)
 
-## O que são "fontes desconhecidas"
+## O que são "fontes desconhecidas"?
 Fontes descohecidas são todos os ".APK" que você instala fora da playstore, e se instalados de uma fonte confiavel, não representam riscos a segurança ou problemas de estabilidade.
 
 Habilitar esta opção para o seu explorador de arquivos, seu navegador (navegador confiavel, como o Firefox, Opera, Chrome, DuckDuckGo e etc.) ou o Revanced Manager não representam riscos a segurança, mas você pode desativar a opção de instalar de fontes desconhecidas apos instalar o revanced se preferir.
@@ -162,7 +162,7 @@ Revanced Manager e GMSCore são projetos opensource e de codigo aberto, que pode
 
 Mesmo assim, prosiga por sua propria conta e risco, ja que todos os softwares são providos do jeito que estão e sem nenhuma garantia, ninguem sera responsavel por danos causados por esses softwares.
 
-# Porque ninguem sera responsavel se qualquer um desses softwares me causar danos?
+## Porque ninguem sera responsavel se qualquer um desses softwares me causar danos?
 Essa é uma medida comumente adotada por diversos softwares e programas, tanto open source quanto closed source.
 
 Um software sem garantia signica que os desenvolvedores desse software não serão responsaveis (sempre na medida da lei) se esse software causar danos, medida comum adotada ate por grandes corporações como a Microsoft com o Windows (Microsoft não é responsavel se você instalar o Windows 10 e seu pc sofrer danos por exemplo) apesar disso, um projeto open source geralmente é verificado varias vezes por dia, o que facilita a detecção de bugs e problemas críticos.
