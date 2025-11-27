@@ -161,7 +161,7 @@ Revanced Manager e GMSCore são projetos opensource e de codigo aberto, que pode
 Mesmo assim, prosiga por sua propria conta e risco, ja que todos os softwares são providos do jeito que estão e sem nenhuma garantia, ninguem sera responsavel por danos causados por esses softwares.
 
 # Porque ninguem sera responsavel se qualquer um desses softwares me causar danos?
-Essa é uma medida comummente adotada por diversos softwares e programas, tanto open source quanto closed source.
+Essa é uma medida comumente adotada por diversos softwares e programas, tanto open source quanto closed source.
 
 Um software sem garantia signica que os desenvolvedores desse software não serão responsaveis (sempre na medida da lei) se esse software causar danos, medida comum adotada ate por grandes corporações como a Microsoft com o Windows (Microsoft não é responsavel se você instalar o Windows 10 e seu pc sofrer danos por exemplo) apesar disso, um projeto open source geralmente é verificado varias vezes por dia, o que facilita a detecção de bugs e problemas críticos.
 
