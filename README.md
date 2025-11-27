@@ -134,9 +134,47 @@ Faça o mesmo processo para desabilitar a opção no proprio Revanced Manager:
 Vá ate Apps > vá ate o Revanced Manager > desça ate "Avançado" > clique em "Instalar apps desconhecidos" e desative a opção "Permitir desta fonte".
 
 ## O que são APKs Vanilla?
-São aplicativos extraidos diretamente a playstore, mas em formato .APK para a instalação por outros meios alem da playstore ou para "patcher" (nosso caso)
+São aplicativos extraidos diretamente da playstore, mas em formato .APK para a instalação por outros meios alem da playstore ou para "patcher" (nosso caso)
 
-Isso significa que os mesmos aplicativos que você baixar por meio desse .APK ou por meio da playstore, são essencialmente os mesmos, mas o .APK é "mais modificavel".
+Isso significa que os aplicativos que você baixar por meio desse .APK ou por meio da playstore, são essencialmente os mesmos, mas o .APK é "mais modificavel".
+
+## O que é fazer "Patch" de um aplicativo?
+É simplesmente modificar ou inserir novas funcionalidades em um programa/aplicativo, como um "concerto" para o aplicativo, que adiciona mais funcionalidades como é o caso aqui.
 
 ## O que é GMSCore?
 GMSCore é um aplicativo/framework opensource e de codigo aberto que permite que aplicativos feitos para o google play service funcionem mesmo sem o google play service, geralmente por conta de modificações, como é o caso.
+
+Seu codigo pode ser verificado clicando [Aqui](https://github.com/microg/GmsCore)
+
+## Minha conta pode ser banida?
+Sempre há riscos de banimento em qualquer aplicativo modificado que dependa de uma uma conta conectada constantemente para funcionar, apesar disso, os riscos de banimento parecem ser muito baixos ate o momento.
+
+Apesar disso também, eu não recomendaria usar contas importantes ou de trabalho principalmente, com aplicativos modificados como o revanced, nesses casos você sempre pode usar uma conta alternativa so pra isso, ou usar no modo sem login (visitante/convidado)
+
+Lembre-se que ninguem sera responsavel se sua conta for banida, tanto eu quanto todos os desenvolvedores do Revanced Manager e do GMSCore, todos os softwares são providos do jeito que estão, e excluidos de qualquer tipo de garantia legal. Essa é uma medida de segurança legal adotada por diversos programas, tanto abertos quanto fechados, opensource ou não.
+
+## É seguro?
+Sim, ate o momento da criação desse guia todos os sistemas estão legitimos, mas sempre se tem riscos ao instalar todo e qualquer aplicativo/programa em qualquer sistema operacional ou loja, isso não significa que é inseguro, mas sempre há chance de você acabar pegando um APK vanilla com malware por exemplo, por isso, sempre use algum scanner antivirus como o VirusTotal por exemplo, antes de instalar qualquer APK de qualquer fonte.
+
+Revanced Manager e GMSCore são projetos opensource e de codigo aberto, que podem ser verificados a qualquer momento em busca de malwares, então geralmente são altamente seguros para download e instalação.
+
+Mesmo assim, prosiga por sua propria conta e risco, ja que todos os softwares são providos do jeito que estão e sem nenhuma garantia, ninguem sera responsavel por danos causados por esses softwares.
+
+# Porque ninguem sera responsavel se qualquer um desses softwares me causar danos?
+Essa é uma medida comummente adotada por diversos softwares e programas, tanto open source quanto closed source.
+
+Um software sem garantia signica que os desenvolvedores desse software não serão responsaveis (sempre na medida da lei) se esse software causar danos, medida comum adotada ate por grandes corporações como a Microsoft com o Windows (Microsoft não é responsavel se você instalar o Windows 10 e seu pc sofrer danos por exemplo) apesar disso, um projeto open source geralmente é verificado varias vezes por dia, o que facilita a detecção de bugs e problemas críticos.
+
+Um software provido do jeito que esta, significa que os desenvolvedores não tem a obrigação de atualizar, arrumar ou manter o software e esse software não tem garantias implicitas ou explicitas.
+
+Quando você baixa um software provido do jeito que está, ou sem garantia, você passa a ser responsavel pelas falhas ou inconsistências no software.
+
+Tudo isso é uma medida legal para proteger os desenvolvedores de software, pois nem sempre eles podem oferecer suporte ou garantia ao software, muitas vezes por força de natureza maior ou questões pessoais. Essas clausulas protegem os desenvolvedores de pessoas má intencionadas de modificarem os softwares para eles funcionarem como não deveriam e processa-los por conta de suas proprias modificações por exemplo.
+
+Muitos desenvolvedores não teem dinheiro para arcar com processos por conta de inconsistências no software causadas por terceiros, e muitas das vezes também não ganham nada em troca pelo software provido.
+
+O que acontece com o GMSCore e o Revanced Manager é uma troca, o software é provido do jeito que esta e sem garatia, mas em troca você recebe o codigo e pode verificar por malwares, bugs, inconsistências, erros e providenciar uma correção no software, e mesmo que você não seja um desenvolvedor, você podera verificar mais consistentemente o software em busca de malwares por exemplo, ja que todo o codigo é aberto, e como todo o codigo é aberto, muitas pessoas contribuem olhando e verificando o codigo, o que deixa o programa ainda mais seguro, ja que a cada atualização alguem verifica por malwares ou bugs.
+
+E não é nada alem disso, uma isenção de responsabilidade por parte dos desenvolvedores, que pode ser recebida de forma negativa, eu sei, mas necessaria principalmente para os softwares livres, ja que muitos projetos acabariam sendo processados assim que qualquer erro, mesmo que pequeno, aparecesse, claro que no caso de malwares os desenvolvedores são punidos, o prorprio Github tem proteção contra malware, mas um desenvolvedor pode acabar caindo em um golpe de phishing por exemplo, mas nesses casos a correção é muita rapida e quase não representa risco a segurança em muitas vezes (obvio que não em todas).
+
+Apesar disso também, os desenvolvedores sempre tentarão provideciar o software de seu modo mais legitimo possivel para qualquer um que quiser instala-los, na medida do possivel pra que isso aconteça.
