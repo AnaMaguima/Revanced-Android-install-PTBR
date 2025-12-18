@@ -163,22 +163,3 @@ Sim, ate o momento da criação desse guia todos os sistemas estão legitimos, m
 Revanced Manager e GMSCore são projetos opensource e de codigo aberto, que podem ser verificados a qualquer momento em busca de malwares, então geralmente são altamente seguros para download e instalação.
 
 Mesmo assim, prosiga por sua propria conta e risco, ja que todos os softwares são providos do jeito que estão e sem nenhuma garantia, ninguem sera responsavel por danos causados por esses softwares.
-
-## Porque ninguem sera responsavel se qualquer um desses softwares me causar danos?
-Essa é uma medida comumente adotada por diversos softwares e programas, tanto open source quanto closed source.
-
-Um software sem garantia signica que os desenvolvedores desse software não serão responsaveis (sempre na medida da lei) se esse software causar danos, medida comum adotada ate por grandes corporações como a Microsoft com o Windows (Microsoft não é responsavel se você instalar o Windows 10 e seu pc sofrer danos por exemplo) apesar disso, um projeto open source geralmente é verificado varias vezes por dia, o que facilita a detecção de bugs e problemas críticos.
-
-Um software provido do jeito que esta, significa que os desenvolvedores não tem a obrigação de atualizar, arrumar ou manter o software e esse software não tem garantias implicitas ou explicitas.
-
-Quando você baixa um software provido do jeito que está, ou sem garantia, você passa a ser responsavel pelas falhas ou inconsistências no software.
-
-Tudo isso é uma medida legal para proteger os desenvolvedores de software, pois nem sempre eles podem oferecer suporte ou garantia ao software, muitas vezes por força de natureza maior ou questões pessoais. Essas clausulas protegem os desenvolvedores de pessoas má intencionadas de modificarem os softwares para eles funcionarem como não deveriam e processa-los por conta de suas proprias modificações por exemplo.
-
-Muitos desenvolvedores não teem dinheiro para arcar com processos por conta de inconsistências no software causadas por terceiros, e muitas das vezes também não ganham nada em troca pelo software provido.
-
-O que acontece com o GMSCore e o Revanced Manager é uma troca, o software é provido do jeito que esta e sem garatia, mas em troca você recebe o codigo e pode verificar por malwares, bugs, inconsistências, erros e providenciar uma correção no software, e mesmo que você não seja um desenvolvedor, você podera verificar mais consistentemente o software em busca de malwares por exemplo, ja que todo o codigo é aberto, e como todo o codigo é aberto, muitas pessoas contribuem olhando e verificando o codigo, o que deixa o programa ainda mais seguro, ja que a cada atualização alguem verifica por malwares ou bugs.
-
-E não é nada alem disso, uma isenção de responsabilidade por parte dos desenvolvedores, que pode ser recebida de forma negativa, eu sei, mas necessaria principalmente para os softwares livres, ja que muitos projetos acabariam sendo processados assim que qualquer erro, mesmo que pequeno, aparecesse, claro que no caso de malwares os desenvolvedores são punidos, o prorprio Github tem proteção contra malware, mas um desenvolvedor pode acabar caindo em um golpe de phishing por exemplo, mas nesses casos a correção é muita rapida e quase não representa risco a segurança em muitas vezes (obvio que não em todas).
-
-Apesar disso também, os desenvolvedores sempre tentarão provideciar o software de seu modo mais legitimo possivel para qualquer um que quiser instala-los, na medida do possivel pra que isso aconteça.
